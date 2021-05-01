@@ -1,4 +1,25 @@
 import os; import sys; import math; import time; import argparse; import datetime
+from F1 import register
+from F2 import
+from F3 import
+from F4 import
+from F5 import
+from F6 import
+from F7 import
+from F8 import
+from F9nFB02 import
+from F10 import
+from F11 import
+from F12 import
+from F13 import
+from F14 import
+from F15 import
+from F16 import
+from F17 import
+from FB01 import
+from FB02 import
+from FB03 import
+
 # ============================== MAIN PROGRAM =======================================
 
 user =[]; gadget = []; consumable = []; consumable_history = []; gadget_borrow_history = []; gadget_return_history = []; inventory_user = []
