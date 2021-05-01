@@ -1,24 +1,8 @@
 import os; import sys; import math; import time; import argparse; import datetime
-from F1 import register
-from F2 import
-from F3 import
-from F4 import
-from F5 import
-from F6 import
-from F7 import
-from F8 import
-from F9nFB02 import
-from F10 import
-from F11 import
-from F12 import
-from F13 import
-from F14 import
-from F15 import
-from F16 import
-from F17 import
-from FB01 import
-from FB02 import
-from FB03 import
+from F1 import register; from F2 import login; from F3 import cariRarity; from F4 import caritahun; from F5 import tambahItem; from F6 import hapusItem
+from F7 import ubahjumlah; from F8 import pinjam; from F9nFB02 import kembalikan; from F10 import mintaConsumable; from F11 riwayatPinjam; from F12 import riwayatKembali
+from F13 import riwayatConsumable; from F14 import load_data; from F15 import save_data; from F16 import help; from F17 import exit; 
+from FB01 import hashing; from FB02 import seed; from FB03 import; from FTambahan import Bold, modify_data, cariID, IDItemAda, cariData, colorStr, tglValid, validasiYN, 
 
 # ============================== MAIN PROGRAM =======================================
 
