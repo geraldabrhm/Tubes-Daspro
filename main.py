@@ -1,3 +1,4 @@
+import os; import sys; import math; import time; import argparse; import datetime
 # ============================== MAIN PROGRAM =======================================
 
 user =[]; gadget = []; consumable = []; consumable_history = []; gadget_borrow_history = []; gadget_return_history = []; inventory_user = []
